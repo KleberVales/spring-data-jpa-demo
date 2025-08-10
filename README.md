@@ -65,6 +65,8 @@ git clone https://github.com/seu-usuario/spring-data-jpa-demo.git
 cd spring-data-jpa-demo
 ```
 
+3. Rodar o projeto
+
 
 
 
