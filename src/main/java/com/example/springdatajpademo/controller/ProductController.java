@@ -1,7 +1,7 @@
 package com.example.springdatajpademo.controller;
 
-import com.example.springdatajpa.entity.Product;
-import com.example.springdatajpa.service.ProductService;
+import com.example.springdatajpademo.entity.Product;
+import com.example.springdatajpademo.service.ProductService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

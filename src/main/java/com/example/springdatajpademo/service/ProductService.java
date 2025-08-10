@@ -1,7 +1,7 @@
 package com.example.springdatajpademo.service;
 
-import com.example.springdatajpa.entity.Product;
-import com.example.springdatajpa.repository.ProductRepository;
+import com.example.springdatajpademo.entity.Product;
+import com.example.springdatajpademo.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
