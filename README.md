@@ -59,6 +59,8 @@ spring:
 git clone https://github.com/seu-usuario/spring-data-jpa-demo.git
 ```
 
+2. Entrar no diretório
+
 
 
 
