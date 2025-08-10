@@ -89,6 +89,17 @@ cd spring-data-jpa-demo
 
 ## 🗺 Fluxograma do Projeto
 
+```mermaid
+flowchart TD
+    A[Início da Aplicação] --> B[Spring Boot inicializa contexto]
+    B --> C[Spring Data JPA carrega repositórios]
+    C --> D[ProductRepository pronto para uso]
+    D --> E[Controller recebe requisição REST]
+    E --> F[Service processa a lógica]
+    F --> G[Repository executa CRUD no H2]
+    G --> H[Resposta enviada ao cliente]
+```
+
 
 
 
