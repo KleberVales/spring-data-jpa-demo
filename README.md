@@ -34,7 +34,7 @@ spring-data-jpa-demo/
 
 O projeto usa um banco H2 em memória, configurado no arquivo application.yml:
 
-```
+```yaml
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
