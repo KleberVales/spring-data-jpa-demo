@@ -53,6 +53,8 @@ spring:
 
 ## ▶️ Como Executar
 
+1. Clonar o repositório
+
 
 
 
