@@ -73,6 +73,11 @@ cd spring-data-jpa-demo
 
 ## 🌐 Endpoints
 
+| Método |	Endpoint |	Descrição |
+|-------|----------|----------|
+| GET |	/products |	Lista todos os produtos |
+| POST |	/products |	Adiciona um novo produto
+
 
 
 
