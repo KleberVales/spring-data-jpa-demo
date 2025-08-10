@@ -78,6 +78,16 @@ cd spring-data-jpa-demo
 | GET |	/products |	Lista todos os produtos |
 | POST |	/products |	Adiciona um novo produto
 
+### Exemplo de POST
+
+```json
+{
+  "name": "Monitor",
+  "price": 900.00
+}
+```
+
+
 
 
 
