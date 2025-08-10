@@ -11,6 +11,8 @@ Projeto de exemplo usando Spring Boot, Spring Data JPA e banco de dados em memó
 - Gradle
 - REST API
 
+## 📂 Estrutura de Pastas
+
 
 
 
