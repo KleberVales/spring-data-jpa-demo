@@ -30,6 +30,8 @@ spring-data-jpa-demo/
 └── README.md
 ```
 
+## ⚙️ Configuração
+
 
 
 
