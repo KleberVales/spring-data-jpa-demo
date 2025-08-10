@@ -71,6 +71,8 @@ cd spring-data-jpa-demo
 ./gradlew bootRun
 ```
 
+## 🌐 Endpoints
+
 
 
 
