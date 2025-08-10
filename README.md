@@ -67,6 +67,10 @@ cd spring-data-jpa-demo
 
 3. Rodar o projeto
 
+```bash
+./gradlew bootRun
+```
+
 
 
 
