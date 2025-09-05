@@ -11,7 +11,7 @@ Example project using Spring Boot, Spring Data JPA, and H2 in-memory database to
 - Gradle
 - REST API
 
-## 📂 Estrutura de Pastas
+## 📂 Folder Structure
 
 ```bash
 spring-data-jpa-demo/
