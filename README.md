@@ -7,7 +7,7 @@ Example project using Spring Boot, Spring Data JPA, and H2 in-memory database to
 - Java 21
 - Spring Boot 3
 - Spring Data JPA
-- H2 Database (banco em memória)
+- H2 Database (in-memory database)
 - Gradle
 - REST API
 
