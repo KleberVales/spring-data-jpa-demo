@@ -20,7 +20,7 @@ spring-data-jpa-demo/
 │   │   ├── java/com/example/springdatajpa/
 │   │   │   ├── SpringDataJpaDemoApplication.java   # Main class
 │   │   │   ├── entity/Product.java                 # JPA Entity
-│   │   │   ├── repository/ProductRepository.java   # Interface JPA Repository
+│   │   │   ├── repository/ProductRepository.java   # JPA Repository Interface
 │   │   │   ├── service/ProductService.java         # Camada de serviço
 │   │   │   └── controller/ProductController.java   # API REST
 │   │   └── resources/
