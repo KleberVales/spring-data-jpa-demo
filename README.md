@@ -21,11 +21,11 @@ spring-data-jpa-demo/
 │   │   │   ├── SpringDataJpaDemoApplication.java   # Main class
 │   │   │   ├── entity/Product.java                 # JPA Entity
 │   │   │   ├── repository/ProductRepository.java   # JPA Repository Interface
-│   │   │   ├── service/ProductService.java         # Camada de serviço
+│   │   │   ├── service/ProductService.java         # Service layer
 │   │   │   └── controller/ProductController.java   # API REST
 │   │   └── resources/
-│   │       ├── application.yml                     # Configuração Spring Boot
-│   │       └── data.sql                            # Dados iniciais
+│   │       ├── application.yml                     # Spring Boot Configuration
+│   │       └── data.sql                            # Initial data
 │── build.gradle
 └── README.md
 ```
