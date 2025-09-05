@@ -78,7 +78,7 @@ cd spring-data-jpa-demo
 | GET |	/products |	List all products |
 | POST |	/products |	Add a new product
 
-### Exemplo de POST
+### POST Example
 
 ```json
 {
@@ -87,7 +87,7 @@ cd spring-data-jpa-demo
 }
 ```
 
-## 🗺 Fluxograma do Projeto
+## 🗺 Project Flowchart
 
 ```mermaid
 flowchart TD
@@ -100,7 +100,7 @@ flowchart TD
     G --> H[Resposta enviada ao cliente]
 ```
 
-## 📚 Conceitos Demonstrados
+## 📚 Demonstrated Concepts
 - Criação de entidades JPA (@Entity)
 - Repositórios Spring Data (JpaRepository)
 - Camada de serviço para regras de negócio
