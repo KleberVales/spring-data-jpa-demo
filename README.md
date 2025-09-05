@@ -2,7 +2,7 @@
 
 Example project using Spring Boot, Spring Data JPA, and H2 in-memory database to demonstrate creating JPA repositories and simple CRUD operations.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
 - Java 21
 - Spring Boot 3
