@@ -51,7 +51,7 @@ spring:
       path: /h2-console
 ```
 
-## ▶️ Como Executar
+## ▶️ How to Run
 
 1. Clonar o repositório
 
