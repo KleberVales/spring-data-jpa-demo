@@ -53,7 +53,7 @@ spring:
 
 ## ▶️ How to Run
 
-1. Clonar o repositório
+1. Clone the repository
 
 ```bash
 git clone https://github.com/seu-usuario/spring-data-jpa-demo.git
