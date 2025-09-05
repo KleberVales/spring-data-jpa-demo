@@ -18,7 +18,7 @@ spring-data-jpa-demo/
 │── src/
 │   ├── main/
 │   │   ├── java/com/example/springdatajpa/
-│   │   │   ├── SpringDataJpaDemoApplication.java   # Classe principal
+│   │   │   ├── SpringDataJpaDemoApplication.java   # Main class
 │   │   │   ├── entity/Product.java                 # Entidade JPA
 │   │   │   ├── repository/ProductRepository.java   # Interface JPA Repository
 │   │   │   ├── service/ProductService.java         # Camada de serviço
