@@ -59,13 +59,13 @@ spring:
 git clone https://github.com/seu-usuario/spring-data-jpa-demo.git
 ```
 
-2. Entrar no diretório
+2. Enter the directory
 
 ```bash
 cd spring-data-jpa-demo
 ```
 
-3. Rodar o projeto
+3. Run the project
 
 ```bash
 ./gradlew bootRun
@@ -73,7 +73,7 @@ cd spring-data-jpa-demo
 
 ## 🌐 Endpoints
 
-| Método |	Endpoint |	Descrição |
+| Method | Endpoint | Description |
 |-------|----------|----------|
 | GET |	/products |	Lista todos os produtos |
 | POST |	/products |	Adiciona um novo produto
