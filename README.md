@@ -1,6 +1,6 @@
 # 📦 Spring Data JPA Demo
 
-Projeto de exemplo usando Spring Boot, Spring Data JPA e banco de dados em memória H2 para demonstrar a criação de repositórios JPA e operações CRUD simples.
+Example project using Spring Boot, Spring Data JPA, and H2 in-memory database to demonstrate creating JPA repositories and simple CRUD operations.
 
 ## 🚀 Tecnologias Utilizadas
 
