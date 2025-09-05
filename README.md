@@ -75,8 +75,8 @@ cd spring-data-jpa-demo
 
 | Method | Endpoint | Description |
 |-------|----------|----------|
-| GET |	/products |	Lista todos os produtos |
-| POST |	/products |	Adiciona um novo produto
+| GET |	/products |	List all products |
+| POST |	/products |	Add a new product
 
 ### Exemplo de POST
 
