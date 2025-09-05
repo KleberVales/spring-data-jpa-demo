@@ -30,7 +30,7 @@ spring-data-jpa-demo/
 └── README.md
 ```
 
-## ⚙️ Configuração
+## ⚙️ Settings
 
 O projeto usa um banco H2 em memória, configurado no arquivo application.yml:
 
