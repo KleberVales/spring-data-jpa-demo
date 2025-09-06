@@ -106,7 +106,7 @@ flowchart TD
 - Service layer for business rules
 - H2 in-memory database
 - Configuration via application.yml
-- Inicialização de dados com data.sql
+- Data initialization with data.sql
 - Exposição de API REST com @RestController
 
 
