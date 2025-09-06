@@ -93,7 +93,7 @@ cd spring-data-jpa-demo
 flowchart TD
     A[Início da Aplicação] --> B[Spring Boot inicializa contexto]
     B --> C[Spring Data JPA loads repositories]
-    C --> D[ProductRepository pronto para uso]
+    C --> D[ProductRepository ready to use]
     D --> E[Controller recebe requisição REST]
     E --> F[Service processa a lógica]
     F --> G[Repository executa CRUD no H2]
