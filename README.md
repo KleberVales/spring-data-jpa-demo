@@ -103,7 +103,7 @@ flowchart TD
 ## 📚 Demonstrated Concepts
 - Creating JPA entities (@Entity)
 - Spring Data Repositories (JpaRepository)
-- Camada de serviço para regras de negócio
+- Service layer for business rules
 - Banco de dados em memória H2
 - Configuração via application.yml
 - Inicialização de dados com data.sql
