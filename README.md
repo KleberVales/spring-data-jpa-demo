@@ -104,7 +104,7 @@ flowchart TD
 - Creating JPA entities (@Entity)
 - Spring Data Repositories (JpaRepository)
 - Service layer for business rules
-- Banco de dados em memória H2
+- H2 in-memory database
 - Configuração via application.yml
 - Inicialização de dados com data.sql
 - Exposição de API REST com @RestController
