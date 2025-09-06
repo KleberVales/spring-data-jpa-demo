@@ -94,7 +94,7 @@ flowchart TD
     A[Início da Aplicação] --> B[Spring Boot inicializa contexto]
     B --> C[Spring Data JPA loads repositories]
     C --> D[ProductRepository ready to use]
-    D --> E[Controller recebe requisição REST]
+    D --> E[Controller receives REST request]
     E --> F[Service processa a lógica]
     F --> G[Repository executa CRUD no H2]
     G --> H[Resposta enviada ao cliente]
