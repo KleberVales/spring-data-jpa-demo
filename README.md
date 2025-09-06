@@ -101,7 +101,7 @@ flowchart TD
 ```
 
 ## 📚 Demonstrated Concepts
-- Criação de entidades JPA (@Entity)
+- Creating JPA entities (@Entity)
 - Repositórios Spring Data (JpaRepository)
 - Camada de serviço para regras de negócio
 - Banco de dados em memória H2
