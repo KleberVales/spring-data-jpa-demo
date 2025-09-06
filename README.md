@@ -92,7 +92,7 @@ cd spring-data-jpa-demo
 ```mermaid
 flowchart TD
     A[Início da Aplicação] --> B[Spring Boot inicializa contexto]
-    B --> C[Spring Data JPA carrega repositórios]
+    B --> C[Spring Data JPA loads repositories]
     C --> D[ProductRepository pronto para uso]
     D --> E[Controller recebe requisição REST]
     E --> F[Service processa a lógica]
