@@ -97,7 +97,7 @@ flowchart TD
     D --> E[Controller receives REST request]
     E --> F[Service processes the logic]
     F --> G[Repository performs CRUD on H2]
-    G --> H[Resposta enviada ao cliente]
+    G --> H[Response sent to the customer]
 ```
 
 ## 📚 Demonstrated Concepts
