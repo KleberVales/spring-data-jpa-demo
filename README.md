@@ -105,7 +105,7 @@ flowchart TD
 - Spring Data Repositories (JpaRepository)
 - Service layer for business rules
 - H2 in-memory database
-- Configuração via application.yml
+- Configuration via application.yml
 - Inicialização de dados com data.sql
 - Exposição de API REST com @RestController
 
