@@ -95,8 +95,8 @@ flowchart TD
     B --> C[Spring Data JPA loads repositories]
     C --> D[ProductRepository ready to use]
     D --> E[Controller receives REST request]
-    E --> F[Service processa a lógica]
-    F --> G[Repository executa CRUD no H2]
+    E --> F[Service processes the logic]
+    F --> G[Repository performs CRUD on H2]
     G --> H[Resposta enviada ao cliente]
 ```
 
