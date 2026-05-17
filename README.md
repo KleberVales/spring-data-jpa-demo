@@ -104,4 +104,3 @@ flowchart TD
 - Creating JPA entities (@Entity)
 - Spring Data Repositories (JpaRepository)
 - Service layer for business rules
-- H2 
