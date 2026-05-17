@@ -106,6 +106,4 @@ flowchart TD
 - Service layer for business rules
 - H2 in-memory database
 - Configuration via application.yml
-- Data 
-
 
