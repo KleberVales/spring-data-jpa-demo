@@ -105,4 +105,3 @@ flowchart TD
 - Spring Data Repositories (JpaRepository)
 - Service layer for business rules
 - H2 in-memory database
-- Configuration 
