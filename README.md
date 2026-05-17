@@ -107,7 +107,6 @@ flowchart TD
 - H2 in-memory database
 - Configuration via application.yml
 - Data initialization with data.sql
-- Exposing 
 
 
 
